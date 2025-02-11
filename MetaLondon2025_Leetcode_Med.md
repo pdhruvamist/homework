@@ -1,7 +1,7 @@
 ### Most Frequently Asked (High Frequency)
 1. Arrays & Hashing
-- [ ] Two Sum [LeetCode #1]
-- [ ] 3Sum [LeetCode #15]
+- [x] Two Sum [LeetCode #1]
+- [x] 3Sum [LeetCode #15]
 - [ ] Group Anagrams [LeetCode #49]
 - [ ] Top K Frequent Elements [LeetCode #347]
 2. Binary Search
@@ -21,7 +21,7 @@
 - [ ] Pacific Atlantic Water Flow [LeetCode #417]
 5. Linked Lists
 - [ ] Add Two Numbers [LeetCode #2]
-- [ ] Merge Two Sorted Lists [LeetCode #21]
+- [x] Merge Two Sorted Lists [LeetCode #21]
 - [ ] Linked List Cycle [LeetCode #141]
 6. Sorting & Searching
 - [ ] Merge Intervals [LeetCode #56]
